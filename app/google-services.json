@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "815670531247",
+    "firebase_url": "https://wolfy-d220d.firebaseio.com",
+    "project_id": "wolfy-d220d",
+    "storage_bucket": "wolfy-d220d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815670531247:android:2fad90f3c2f1fc5f",
+        "android_client_info": {
+          "package_name": "com.example.sujit.wolfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815670531247-4bhn7iqd0m35nhm02oafjdsb7p2j9bfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sujit.wolfy",
+            "certificate_hash": "52177a17a7e7645bec14dc79381df5de80f480b1"
+          }
+        },
+        {
+          "client_id": "815670531247-mhjfb1l71a0jc7b0i6mk6961pv4knc1b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "815670531247-mhjfb1l71a0jc7b0i6mk6961pv4knc1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ZtZVgvnCZLUgAE-p9O8FL2TFyUwNUGw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815670531247-mhjfb1l71a0jc7b0i6mk6961pv4knc1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
